@@ -1,4 +1,4 @@
-# Deep Origin URL shortener (proejct)
+# Deep Origin URL shortener project
 
 Hello, here is the how I structured the project.
 
@@ -8,7 +8,7 @@ Hello, here is the how I structured the project.
 REST API using Express/TypeScript
 
 
-## /app
+## /frontend
 
 FE Next.js app with tailwind for basic styling
 
